@@ -16,4 +16,7 @@
 
 ## Screenshots
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+
+#### Fig1: Web Form
+![Dashboard](https://github.com/SleshaMadkaikar/L2Xproject/blob/abe1d1cb31f06f527a276a99c215043fe2ab118a/JPDB.PNG)
+#### Fig: JPDB Database
