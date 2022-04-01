@@ -14,9 +14,17 @@
 #### - It is built on top of one of the fastest and real-time data indexing engine _PowerIndeX_.
 #### - _Caching DB, Pluggable API development_ makes it technology futuristic.
 
-## Screenshots
+## Release History
 
+#### 1. Executed the example web form code form the PDF.
+#### 2. CHANGE: used javascript library jpdb-commons.js.
+#### 3. Saved the project. Then right clicked on project -> Versioning -> initialize git repository.
+#### 4. After successful coversion of local repository, completed with commit (path - right clicked on project -> git -> commit... ).
+#### 5. After successful commit, the local repository flie was pushed to github repository (path - right clicked on project -> git -> remote -> push... ).
 
-#### Fig1: Web Form
+### Screenshots
+
+![Webpage](https://github.com/SleshaMadkaikar/L2Xproject/blob/178c911ed9c6a10541e2ea7374ef64e3f966e4e5/WebForm.PNG)
+##### Fig1: Web Form
 ![Dashboard](https://github.com/SleshaMadkaikar/L2Xproject/blob/abe1d1cb31f06f527a276a99c215043fe2ab118a/JPDB.PNG)
-#### Fig: JPDB Database
+##### Fig2: JPDB Database
